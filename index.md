@@ -3,3 +3,5 @@
 ```Python
 potato = ""
 ```
+- [x] potato
+- [ ] fries
